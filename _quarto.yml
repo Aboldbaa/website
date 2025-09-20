@@ -1,0 +1,9 @@
+project: 
+  type: website
+  
+website: 
+  title: "This is Stat 515"
+  navbar: 
+   left: 
+     - index.qmd
+     - hello.qmd

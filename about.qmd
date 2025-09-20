@@ -1,0 +1,11 @@
+---
+title: "About"
+format: html
+editor: visual
+---
+
+Hello I am Anand Boldbaatar. I am a data analysis Grad student at George mason university.
+
+Contacts
+
+[www.linkedin.com/in/anand-boldoo](www.linkedin.com/in/anand-boldoo)

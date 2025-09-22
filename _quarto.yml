@@ -4,6 +4,7 @@ project:
 website: 
   title: "This is Stat 515"
   site-url: https://aboldbaa.github.io/website/
+  repo-url: https://github.com/aboldbaa/website
   navbar: 
     left: 
       - href: index.qmd
@@ -15,5 +16,4 @@ website:
 
 format:
   html:
-    theme: cosmo     
-    
+    theme: cosmo

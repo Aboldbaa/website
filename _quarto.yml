@@ -4,6 +4,15 @@ project:
 website: 
   title: "This is Stat 515"
   navbar: 
-   left: 
-     - index.qmd
-     - hello.qmd
+    left: 
+      - href: index.qmd
+        text: Home
+      - href: hello.qmd
+        text: Hello
+      - href: about.qmd
+        text: About
+
+format:
+  html:
+    theme: cosmo     
+    

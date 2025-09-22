@@ -1,6 +1,6 @@
 project: 
   type: website
-  
+  output-dir: docs
 website: 
   title: "This is Stat 515"
   site-url: https://aboldbaa.github.io/website/

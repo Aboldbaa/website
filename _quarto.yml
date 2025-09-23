@@ -1,16 +1,16 @@
 project: 
   type: website
-  output-dir: docs
+  
 website: 
   title: "This is Stat 515"
   navbar: 
     left: 
-      - href: index.qmd
-        text: Home
-      - href: hello.qmd
-        text: Hello
-      - href: about.qmd
-        text: About
+      - text: "Home"
+        href: index.qmd
+      - text: "Hello"
+        href: hello.qmd
+      - text: "About"
+        href: about.qmd
 
 format:
   html:
